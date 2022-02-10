@@ -15,7 +15,9 @@ Made with:
     # or
   yarn install
 ```
-- Then, launch the app to run on your device with the Expo Go app:
+- Start a local dev server for the app:
 ```bash
   expo start
 ```
+
+- Scan the QR Code that returns to open the application on your device.
